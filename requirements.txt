@@ -12,3 +12,4 @@ ipykernel
 scipy
 scikit-learn
 torch
+kagglehub
