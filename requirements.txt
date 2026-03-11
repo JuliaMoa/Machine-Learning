@@ -13,3 +13,5 @@ scipy
 scikit-learn
 torch
 kagglehub
+tarfile
+urllib.request
